@@ -41,4 +41,3 @@ The requested item is dispatched to the officer, closing the request's lifecycle
 8.	Record Update: 
 Upon completion of the delivery, the transaction log is updated, promoting transparency and aiding in future resource planning and management.
 
-![image](https://github.com/user-attachments/assets/034b1c17-98b2-41c7-a3a8-f220404c64d2)
